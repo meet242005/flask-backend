@@ -1,7 +1,11 @@
-- pip install -r requirements.txt
-- pip3 install -r requirements.txt
+ # To install dependencies 
 
-vaise to upar waale se major import hojayenge still I used some others like certifi, bycrypt, uuid jo dekh lena trail and error se :)
+ ```
+pip install -r requirements.txt
+ ```
+  ```
+pip3 install -r requirements.txt
+ ```
 
 # To run the server 
  ```
